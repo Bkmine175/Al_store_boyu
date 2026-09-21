@@ -1,0 +1,358 @@
+{
+  "apps": [
+    {
+      "name": "Android Auto",
+      "version": "3.0.4",
+      "icon": "https://raw.githubusercontent.com/Bkmine175/AL-STORE/e6fbe10459d20b595c083309261dfa32e2ed2a97/icon_androidauto.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V737282992/auto340.apk"
+    },
+    {
+      "name": "Headunitroald Ru-version",
+      "version": "7.14",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3bacddf9d5005c318826c7a94b474d51d9f4f609/iconhezd.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V98544578/aaaAuto.apk"
+    },
+      {
+      "name": "AutoKit",
+      "version": "21.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_autokit.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/autokit.apk"
+    },
+    {
+      "name": "Carbitlink",
+      "version": "7.3.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/fb72e010bf42bc34fadf501aa3aaa83a20c47c62/icon_carbtitlink.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V737838282/Jar.apk"
+    },
+    {
+      "name": "DVR Auto 360",
+      "version": "1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/321638887f91ed71b5c96e36fbd74a5796c00ab7/icon_dvr.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.5.7/DVRauto2.apk"
+    },
+    {
+      "name": "Side camera",
+      "version": "1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/76eadfd4fe41b82e048154feab5f2ef4f39bf334/icon_side.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6%E2%82%AC7%E2%82%AC82992/SiiideEyeetest2.apk"
+    },
+    {
+      "name": "kit Geely intelligent",
+      "version": "1.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/321638887f91ed71b5c96e36fbd74a5796c00ab7/icon_sc.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V738292929/ayv103_sign.apk"
+    },
+    {
+      "name": "Quran",
+      "version": "1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/666ec1834ed6d614ce96687422d0f54a1e6cf6aa/icon_quran.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V8.2.3/quoran.apk"
+    },
+    {
+      "name": "Quran warch",
+      "version": "2.5.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/d8fa5d9a43393f0bf131304fdb0e3c9559a935bd/icon_quranwarch.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V764748/warshquran.apk"
+    },
+    {
+      "name": "Ayah",
+      "version": "2.5.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/2e10d15f1572c5cba27ea4bef9a7f1af4679edcb/icon_ayah.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6373883/ayah.apk"
+    },
+      {
+      "name": "Algérien Radio",
+      "version": "21.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_radioalgerien.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/radio.apk"
+    },
+      {
+      "name": "VRadio",
+      "version": "6.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bdb0df250a893c64164465776d97716e4011142d/icon_vradio.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/VRadio.apk"
+    },
+    {
+      "name": "Dab Radio",
+      "version": "4.1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/f8ae8e1dc4eff3d9f11485e407587b332970c05a/icon_dabradio.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Radio_DAB.apk"
+    },
+    {
+      "name": "Gestionnaire de fichiers",
+      "version": "1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/05b5adefbe4754a5978637a8392e3cbffa1878df/icon_gestion.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6382929/Gestionnv14.apk"
+    },
+    {
+      "name": "Carlink",
+      "version": "1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/43c80998bd79d2052549a680afd57ba5a6724d80/icon_carlink.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V5263839/Carlininew.apk"
+    },
+    {
+      "name": "YouTube Music",
+      "version": "1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/63dbe53b356daf0cbf227eef8e4ea77529a383ea/icon_YouTubeMusic_new.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.0.0/youtube.music.apk"
+    },
+    {
+      "name": "YouTube",
+      "version": "10.47",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e64a96bbc3a2c4b538a4fc828877e155baf41bab/iconyoutube.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2/youtube.apk"
+    },
+    {
+      "name": "YouTube black",
+      "version": "21.36.45",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/5be25d4a53ccb8a2fc971b674867497846132195/icon_youtubebk.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V876568998/YouTubev1.apk"
+    },
+     {
+      "name": "YouTube Premium",
+      "version": "21.36.45",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/e64a96bbc3a2c4b538a4fc828877e155baf41bab/iconyoutube.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V739392002/ytube_Premium.apk"
+    },
+    {
+      "name": "SnapTube",
+      "version": "7.66.1.77",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_ssptube.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V638292929/Snptub.apk"
+    },
+    {
+      "name": "Micro G",
+      "version": "0.3.13.2.250932",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/6666a96229a0686a12b58c235fe67c20fbafd35b/icon_MicroG.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.3.4/gms.apk"
+    },
+    {
+      "name": "Maps",
+      "version": "10.87",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/1bcea0f4ed6cad3278651edd2fc247b448a41c38/icon_maps.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V.2.3.4.5/Maps.apk"
+    },
+    {
+      "name": "Maps new",
+      "version": "26.30",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/39d131998727a47e618f98cf4a45ea82712516ee/iconmapsnex.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6744/mp.apk"
+    },
+    {
+      "name": "MAPS ME",
+      "version": "16.4.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/1bcea0f4ed6cad3278651edd2fc247b448a41c38/icon_mapsme.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V.6/mapsme.apk"
+    },
+    {
+      "name": "Organic Maps",
+      "version": "1.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/4e7e0f4ec2286e4503573fc2ec703755c6c01e22/incon_organicmaps.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.4.7/organicmaps.apk"
+    },
+     {
+      "name": "Yandex Maps",
+      "version": "2.3.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/9280d83bcc060ac51bd452790de4964563ab32a6/icon_yandexmaps.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6267394/yan.apk"
+    },
+    {
+      "name": "mini Maps",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/54b88aa86b885ecbd8f58caf726fcd1219a28e3f/icon_minicarte.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V637483939/minicarte.apk"
+    },
+    {
+      "name": "Widget+afichage cockpit Google Maps",
+      "version": "1.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bab6b505af7bea67e965c33e2ff05f466677e9cd/icon_widgetnav.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V88765567/widgetmapsv6.apk"
+    },
+    {
+      "name": "Volume booster",
+      "version": "3.4.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/c4ec223e68c2036f8aaac389ad10acb414975cd4/icon_volumebooster.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/boost.apk"
+    },
+    {
+      "name": "WhatsApp",
+      "version": "13.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/33d6ef304b013651d521482538d05d4f023efc4e/icon_whatpas.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.4.2/WhatsApp.apk"
+    },
+    {
+      "name": "Tiktok",
+      "version": "16.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/33d6ef304b013651d521482538d05d4f023efc4e/icon_tiktok.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.8.6.7/Tiktok.apk"
+    },
+    {
+      "name": "Spotify",
+      "version": "5.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/4346782479ee43c64e7104819c7bedeecdf665f9/icon_spotify.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V6.8.1.3/Spotify.apk"
+    },
+     {
+      "name": "Deezer",
+      "version": "8.0.48.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/d8fa5d9a43393f0bf131304fdb0e3c9559a935bd/icon_dezeer.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7474849/deezer.apk"
+    },
+    {
+      "name": "DMSS",
+      "version": "41.2.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/01f18dd4b80b5eaff0bdcdeb940c633f95dcd456/icon_dmss.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V18.5.2/dmss.apk"
+    },
+    {
+      "name": "VLC",
+      "version": "3.0.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/026cde3c7ed3c76c962356f22e866d2cdcba5fae/icon_vlc.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.4.5/vlc.apk"
+    },
+    {
+      "name": "Mx Player",
+      "version": "3.0.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/026cde3c7ed3c76c962356f22e866d2cdcba5fae/icon_mxplayer.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2.5.7.4/mxplayer.apk"
+    },
+    {
+      "name": "Control vitres et toit",
+      "version": "1.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/d8fa5d9a43393f0bf131304fdb0e3c9559a935bd/icon_window.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V83763738/window.apk"
+    },
+    {
+      "name": "AiScore",
+      "version": "4.2.8",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/7007f43fa6448276ba1cd83aaf53142d83710b0c/icon_aiscore.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7544788856/AiScosxr.apk"
+    },
+    {
+      "name": "Worms Zone",
+      "version": "6.29.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_wramzine.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7383929/WorsZne.apk"
+    },
+    {
+      "name": "Subway Surf",
+      "version": "3.68.6",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/b3abfd3d4d992cbce0bc11a0d670720415b7eedf/icon_sabwy.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V638292992/subAy.apk"
+    },
+        {
+      "name": "Angry Birds",
+      "version": "7.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/44b4a43e9e98d8e3ae55b933cce62044b538548d/icon_angry.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V738292992/angry.apk"
+    },
+    {
+      "name": "Black Shade",
+      "version": "1.0.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/iconblackshade.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V637282929/Black.Shade.apk"
+    },
+    {
+      "name": "YacineTV Gold",
+      "version": "4.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3a4d2164d0af72c1b980500aab4e295f044f089a/icon_yacinetvgold.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/raw/refs/heads/main/Yacine_TVGold.apk"
+    },
+    {
+      "name": "Drama Live",
+      "version": "13.0.3",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_daramalive.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V638393)/drlav22.apk"
+    },
+       {
+      "name": "Neo 4k Pro",
+      "version": "3.8",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2638/Neo4KPro.apk"
+    },
+    {
+      "name": "Neo 4kp",
+      "version": "4.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/bb5b3c8596a6f2af45e574f8b6a5ee2e4db52f48/icon_new4k.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V52838/Neo4Kp.apk"
+    },
+    {
+      "name": "Neo 4kp",
+      "version": "4.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/5b1b74594f04ab73e7708a8f962420a46b148562/icon_new4kp.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V538/Neo4Kp.apk"
+    },
+    {
+      "name": "Reezn",
+      "version": "2.0.19",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/5b1b74594f04ab73e7708a8f962420a46b148562/icon_reezn.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7654578/Reerzrzn109.apk"
+    },
+    {
+      "name": "KD max",
+      "version": "1.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a0c3204fa616ccbf85a0b88df6d3d01bff28f791/icon_kdmax2.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V2238/kdmax1.5.apk"
+    },
+    {
+      "name": "KDmax silver",
+      "version": "3.1.2",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a0c3204fa616ccbf85a0b88df6d3d01bff28f791/iconkdmaxsilver.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V1.2.5/KDmaxSilver.apk"
+    },
+    {
+      "name": "Lynx",
+      "version": "1.21",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a0c3204fa616ccbf85a0b88df6d3d01bff28f791/icon_lynx.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V4.69/lynx.apk"
+    },
+    {
+      "name": "ATLASPRO ONTV",
+      "version": "4.0.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_atlasproon.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V736/atlasproontvv4.apk"
+    },
+    {
+      "name": "ATLAS PRO MAX",
+      "version": "6.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_atalspro.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V5.4.2/ATLAS_PRO_MAX-6.0.apk"
+    },
+    {
+      "name": "Orca Pro+",
+      "version": "3.0.1",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_orca.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.2.3/Orca.Pro+_3.0.1.0-plus_apkcombo.com.apk"
+    },
+        {
+      "name": "Netfly",
+      "version": "3.0.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/a45438bf6f10381d07d57d979a5283d9e6da15d2/icon_netfly.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.3.4/NETFLY.apk"
+    },
+    {
+      "name": "IPTV Smarters Pro",
+      "version": "5.0",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/908c42ddbc6cb87ba96f958dc70b2bdd79c17164/icon_iptvsmaterpro.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V7.2.7/iptv-smarters-pro-5-0.apk"
+    },
+      {
+      "name": "IRON TV MAX",
+      "version": "5.5",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/3635bde79e9bbc16ea1407960630ea2bcbce7714/icon_ironmax.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/7.8.1/iron-tv-max.apk"
+      },
+      {
+      "name": "Setting",
+      "version": "adnroid9",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/icon_setting9.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V83826262719/settings.apk"
+      },
+      {
+      "name": "SETTING",
+      "version": "1.4",
+      "icon": "https://github.com/Bkmine175/AL-STORE/raw/358a2d0d59719248412dddee9a9f406d23cdd823/icon_setting.png",
+      "url": "https://github.com/Bkmine175/AL-STORE/releases/download/V727525261919/settingsapp.apk"
+      }
+  ]
+} 
